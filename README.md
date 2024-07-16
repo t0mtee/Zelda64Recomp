@@ -1,6 +1,9 @@
 # Zelda 64: Recompiled
 Zelda 64: Recompiled is a project that uses [N64: Recompiled](https://github.com/Mr-Wiseguy/N64Recomp) to **statically recompile** Majora's Mask (and soon Ocarina of Time) into a native port with many new features and enhancements. This project uses [RT64](https://github.com/rt64/rt64) as the rendering engine to provide some of these enhancements.
 
+This fork repositions the UI to correspond more to the X, Y and R control scheme that is the default in this port and in the more modern Zelda games such as TPHD and WWHD.
+When recomp gets official mod support this will become a mod very quickly, with textures to replace mentions of C-buttons with "item buttons" or something like that to try and modernise the experience as much as possible.
+
 ### [Check out the latest release here](https://github.com/Mr-Wiseguy/Zelda64Recomp/releases/latest).
 
 ### **This repository and its releases do not contain game assets. The original game is required to build or run this project.**
